@@ -1,0 +1,1001 @@
+tweet_id,text,sentiment
+1,laptop seems decent for the price.,neutral
+2,I love update! It's absolutely amazing.,positive
+3,Customer service for update is awful.,negative
+4,I love headphones! It's absolutely amazing.,positive
+5,camera is awesome! Highly recommend it.,positive
+6,I love update! It's absolutely amazing.,positive
+7,No strong feelings about camera. It's alright.,neutral
+8,Worst feature ever. Totally disappointed.,negative
+9,So happy with the new update. Totally worth it!,positive
+10,update seems decent for the price.,neutral
+11,Fantastic experience — watch exceeded my expectations.,positive
+12,I love laptop! It's absolutely amazing.,positive
+13,Terrible experience using battery.,negative
+14,Worst headphones ever. Totally disappointed.,negative
+15,I hate this website. Waste of money.,negative
+16,"Average TV. Does the job, I guess.",neutral
+17,I love app! It's absolutely amazing.,positive
+18,Terrible experience using game.,negative
+19,Worst app ever. Totally disappointed.,negative
+20,So happy with the new TV. Totally worth it!,positive
+21,battery seems decent for the price.,neutral
+22,Never buying service again. Huge letdown.,negative
+23,I love keyboard! It's absolutely amazing.,positive
+24,"TV is okay, nothing special.",neutral
+25,Absolutely love the performance of website!,positive
+26,I love battery! It's absolutely amazing.,positive
+27,app stopped working after one day. Unacceptable.,negative
+28,"camera is okay, nothing special.",neutral
+29,I hate this camera. Waste of money.,negative
+30,So frustrating. laptop keeps crashing.,negative
+31,Never buying software again. Huge letdown.,negative
+32,Worst battery ever. Totally disappointed.,negative
+33,No strong feelings about game. It's alright.,neutral
+34,Fantastic experience — brand exceeded my expectations.,positive
+35,Best update I've used in a long time ❤️,positive
+36,No strong feelings about update. It's alright.,neutral
+37,Best app I've used in a long time ❤️,positive
+38,So frustrating. service keeps crashing.,negative
+39,No strong feelings about support. It's alright.,neutral
+40,phone stopped working after one day. Unacceptable.,negative
+41,Fantastic experience — camera exceeded my expectations.,positive
+42,So frustrating. software keeps crashing.,negative
+43,Best battery I've used in a long time ❤️,positive
+44,Absolutely love the performance of phone!,positive
+45,Never buying software again. Huge letdown.,negative
+46,Worst camera ever. Totally disappointed.,negative
+47,No strong feelings about service. It's alright.,neutral
+48,"mouse works fine, just as expected.",neutral
+49,I hate this headphones. Waste of money.,negative
+50,Best service I've used in a long time ❤️,positive
+51,Never buying brand again. Huge letdown.,negative
+52,Worst keyboard ever. Totally disappointed.,negative
+53,Never buying camera again. Huge letdown.,negative
+54,I hate this phone. Waste of money.,negative
+55,software seems decent for the price.,neutral
+56,So frustrating. app keeps crashing.,negative
+57,Pretty standard TV. Nothing to complain about.,neutral
+58,phone is awesome! Highly recommend it.,positive
+59,Pretty standard keyboard. Nothing to complain about.,neutral
+60,Customer service for watch is awful.,negative
+61,Fantastic experience — software exceeded my expectations.,positive
+62,Customer service for laptop is awful.,negative
+63,Best camera I've used in a long time ❤️,positive
+64,I love mouse! It's absolutely amazing.,positive
+65,No strong feelings about mouse. It's alright.,neutral
+66,Customer service for laptop is awful.,negative
+67,Can't stop smiling! update is perfect 😍,positive
+68,So frustrating. website keeps crashing.,negative
+69,So happy with the new feature. Totally worth it!,positive
+70,Best headphones I've used in a long time ❤️,positive
+71,So happy with the new camera. Totally worth it!,positive
+72,software is awesome! Highly recommend it.,positive
+73,"keyboard works fine, just as expected.",neutral
+74,I love keyboard! It's absolutely amazing.,positive
+75,Terrible experience using phone.,negative
+76,So frustrating. app keeps crashing.,negative
+77,I hate this feature. Waste of money.,negative
+78,Customer service for support is awful.,negative
+79,"Average laptop. Does the job, I guess.",neutral
+80,I love service! It's absolutely amazing.,positive
+81,Best headphones I've used in a long time ❤️,positive
+82,brand is awesome! Highly recommend it.,positive
+83,Worst software ever. Totally disappointed.,negative
+84,Worst website ever. Totally disappointed.,negative
+85,I hate this software. Waste of money.,negative
+86,Best mouse I've used in a long time ❤️,positive
+87,Can't stop smiling! keyboard is perfect 😍,positive
+88,game stopped working after one day. Unacceptable.,negative
+89,Best support I've used in a long time ❤️,positive
+90,Absolutely love the performance of headphones!,positive
+91,I love laptop! It's absolutely amazing.,positive
+92,app seems decent for the price.,neutral
+93,Never buying headphones again. Huge letdown.,negative
+94,So happy with the new battery. Totally worth it!,positive
+95,So frustrating. TV keeps crashing.,negative
+96,I love battery! It's absolutely amazing.,positive
+97,Never buying mouse again. Huge letdown.,negative
+98,I love headphones! It's absolutely amazing.,positive
+99,I hate this game. Waste of money.,negative
+100,Never buying battery again. Huge letdown.,negative
+101,No strong feelings about service. It's alright.,neutral
+102,I love battery! It's absolutely amazing.,positive
+103,"Average software. Does the job, I guess.",neutral
+104,Worst software ever. Totally disappointed.,negative
+105,watch stopped working after one day. Unacceptable.,negative
+106,Never buying battery again. Huge letdown.,negative
+107,So happy with the new headphones. Totally worth it!,positive
+108,Worst keyboard ever. Totally disappointed.,negative
+109,Customer service for headphones is awful.,negative
+110,feature seems decent for the price.,neutral
+111,Never buying mouse again. Huge letdown.,negative
+112,Can't stop smiling! laptop is perfect 😍,positive
+113,Never buying laptop again. Huge letdown.,negative
+114,Worst headphones ever. Totally disappointed.,negative
+115,I hate this app. Waste of money.,negative
+116,I love watch! It's absolutely amazing.,positive
+117,update stopped working after one day. Unacceptable.,negative
+118,Best mouse I've used in a long time ❤️,positive
+119,I hate this mouse. Waste of money.,negative
+120,I love support! It's absolutely amazing.,positive
+121,mouse seems decent for the price.,neutral
+122,Fantastic experience — update exceeded my expectations.,positive
+123,"TV is okay, nothing special.",neutral
+124,Pretty standard headphones. Nothing to complain about.,neutral
+125,Terrible experience using update.,negative
+126,Can't stop smiling! support is perfect 😍,positive
+127,Terrible experience using headphones.,negative
+128,So happy with the new game. Totally worth it!,positive
+129,Terrible experience using support.,negative
+130,Best mouse I've used in a long time ❤️,positive
+131,"Average phone. Does the job, I guess.",neutral
+132,No strong feelings about website. It's alright.,neutral
+133,I hate this feature. Waste of money.,negative
+134,Never buying TV again. Huge letdown.,negative
+135,Fantastic experience — laptop exceeded my expectations.,positive
+136,feature stopped working after one day. Unacceptable.,negative
+137,So happy with the new website. Totally worth it!,positive
+138,So frustrating. feature keeps crashing.,negative
+139,keyboard is awesome! Highly recommend it.,positive
+140,Never buying laptop again. Huge letdown.,negative
+141,Absolutely love the performance of watch!,positive
+142,Never buying battery again. Huge letdown.,negative
+143,Terrible experience using camera.,negative
+144,"Average headphones. Does the job, I guess.",neutral
+145,Terrible experience using website.,negative
+146,service stopped working after one day. Unacceptable.,negative
+147,"support works fine, just as expected.",neutral
+148,So happy with the new app. Totally worth it!,positive
+149,I hate this headphones. Waste of money.,negative
+150,Terrible experience using software.,negative
+151,Pretty standard headphones. Nothing to complain about.,neutral
+152,No strong feelings about brand. It's alright.,neutral
+153,battery stopped working after one day. Unacceptable.,negative
+154,Absolutely love the performance of feature!,positive
+155,No strong feelings about battery. It's alright.,neutral
+156,"support is okay, nothing special.",neutral
+157,No strong feelings about service. It's alright.,neutral
+158,Never buying TV again. Huge letdown.,negative
+159,Customer service for service is awful.,negative
+160,Never buying website again. Huge letdown.,negative
+161,Worst website ever. Totally disappointed.,negative
+162,Customer service for camera is awful.,negative
+163,Pretty standard app. Nothing to complain about.,neutral
+164,"feature is okay, nothing special.",neutral
+165,Pretty standard brand. Nothing to complain about.,neutral
+166,Terrible experience using brand.,negative
+167,Terrible experience using headphones.,negative
+168,Fantastic experience — headphones exceeded my expectations.,positive
+169,Fantastic experience — phone exceeded my expectations.,positive
+170,update is awesome! Highly recommend it.,positive
+171,game seems decent for the price.,neutral
+172,So frustrating. battery keeps crashing.,negative
+173,brand seems decent for the price.,neutral
+174,software is awesome! Highly recommend it.,positive
+175,Terrible experience using app.,negative
+176,battery stopped working after one day. Unacceptable.,negative
+177,Terrible experience using watch.,negative
+178,keyboard seems decent for the price.,neutral
+179,"battery works fine, just as expected.",neutral
+180,app stopped working after one day. Unacceptable.,negative
+181,I love TV! It's absolutely amazing.,positive
+182,Can't stop smiling! laptop is perfect 😍,positive
+183,Can't stop smiling! keyboard is perfect 😍,positive
+184,Pretty standard keyboard. Nothing to complain about.,neutral
+185,keyboard seems decent for the price.,neutral
+186,Absolutely love the performance of update!,positive
+187,So happy with the new app. Totally worth it!,positive
+188,laptop stopped working after one day. Unacceptable.,negative
+189,"Not bad, but phone could be improved.",neutral
+190,laptop stopped working after one day. Unacceptable.,negative
+191,TV seems decent for the price.,neutral
+192,app seems decent for the price.,neutral
+193,phone seems decent for the price.,neutral
+194,Pretty standard TV. Nothing to complain about.,neutral
+195,camera seems decent for the price.,neutral
+196,"battery works fine, just as expected.",neutral
+197,So frustrating. TV keeps crashing.,negative
+198,So happy with the new mouse. Totally worth it!,positive
+199,Pretty standard service. Nothing to complain about.,neutral
+200,Fantastic experience — service exceeded my expectations.,positive
+201,TV stopped working after one day. Unacceptable.,negative
+202,No strong feelings about mouse. It's alright.,neutral
+203,"battery is okay, nothing special.",neutral
+204,Fantastic experience — battery exceeded my expectations.,positive
+205,"Average watch. Does the job, I guess.",neutral
+206,Best feature I've used in a long time ❤️,positive
+207,"support works fine, just as expected.",neutral
+208,So frustrating. battery keeps crashing.,negative
+209,"Average support. Does the job, I guess.",neutral
+210,Customer service for feature is awful.,negative
+211,Fantastic experience — game exceeded my expectations.,positive
+212,Pretty standard phone. Nothing to complain about.,neutral
+213,"camera works fine, just as expected.",neutral
+214,Can't stop smiling! keyboard is perfect 😍,positive
+215,TV seems decent for the price.,neutral
+216,Customer service for app is awful.,negative
+217,game is awesome! Highly recommend it.,positive
+218,Pretty standard keyboard. Nothing to complain about.,neutral
+219,I love headphones! It's absolutely amazing.,positive
+220,Terrible experience using TV.,negative
+221,"feature is okay, nothing special.",neutral
+222,I hate this phone. Waste of money.,negative
+223,watch seems decent for the price.,neutral
+224,feature seems decent for the price.,neutral
+225,Best watch I've used in a long time ❤️,positive
+226,No strong feelings about feature. It's alright.,neutral
+227,feature is awesome! Highly recommend it.,positive
+228,Pretty standard brand. Nothing to complain about.,neutral
+229,"Not bad, but feature could be improved.",neutral
+230,"headphones is okay, nothing special.",neutral
+231,So happy with the new app. Totally worth it!,positive
+232,I love brand! It's absolutely amazing.,positive
+233,So happy with the new app. Totally worth it!,positive
+234,"Average keyboard. Does the job, I guess.",neutral
+235,Customer service for update is awful.,negative
+236,"TV works fine, just as expected.",neutral
+237,No strong feelings about camera. It's alright.,neutral
+238,Fantastic experience — mouse exceeded my expectations.,positive
+239,I love keyboard! It's absolutely amazing.,positive
+240,Best phone I've used in a long time ❤️,positive
+241,Can't stop smiling! watch is perfect 😍,positive
+242,Can't stop smiling! watch is perfect 😍,positive
+243,Pretty standard mouse. Nothing to complain about.,neutral
+244,Pretty standard brand. Nothing to complain about.,neutral
+245,Pretty standard keyboard. Nothing to complain about.,neutral
+246,Never buying website again. Huge letdown.,negative
+247,Can't stop smiling! software is perfect 😍,positive
+248,I hate this battery. Waste of money.,negative
+249,Never buying feature again. Huge letdown.,negative
+250,No strong feelings about app. It's alright.,neutral
+251,I love headphones! It's absolutely amazing.,positive
+252,Terrible experience using service.,negative
+253,game seems decent for the price.,neutral
+254,So frustrating. battery keeps crashing.,negative
+255,Best software I've used in a long time ❤️,positive
+256,"game works fine, just as expected.",neutral
+257,No strong feelings about camera. It's alright.,neutral
+258,I hate this keyboard. Waste of money.,negative
+259,Can't stop smiling! software is perfect 😍,positive
+260,battery stopped working after one day. Unacceptable.,negative
+261,"headphones is okay, nothing special.",neutral
+262,"service works fine, just as expected.",neutral
+263,Best phone I've used in a long time ❤️,positive
+264,"Not bad, but app could be improved.",neutral
+265,Best watch I've used in a long time ❤️,positive
+266,I hate this watch. Waste of money.,negative
+267,No strong feelings about software. It's alright.,neutral
+268,"battery works fine, just as expected.",neutral
+269,Customer service for TV is awful.,negative
+270,"website works fine, just as expected.",neutral
+271,I love website! It's absolutely amazing.,positive
+272,watch stopped working after one day. Unacceptable.,negative
+273,Fantastic experience — feature exceeded my expectations.,positive
+274,Terrible experience using keyboard.,negative
+275,Terrible experience using battery.,negative
+276,"keyboard works fine, just as expected.",neutral
+277,Worst watch ever. Totally disappointed.,negative
+278,"service is okay, nothing special.",neutral
+279,"Average game. Does the job, I guess.",neutral
+280,"app is okay, nothing special.",neutral
+281,Can't stop smiling! battery is perfect 😍,positive
+282,Customer service for laptop is awful.,negative
+283,"Not bad, but feature could be improved.",neutral
+284,I hate this watch. Waste of money.,negative
+285,headphones stopped working after one day. Unacceptable.,negative
+286,service seems decent for the price.,neutral
+287,I love TV! It's absolutely amazing.,positive
+288,Best watch I've used in a long time ❤️,positive
+289,"Not bad, but app could be improved.",neutral
+290,Absolutely love the performance of TV!,positive
+291,"website works fine, just as expected.",neutral
+292,I hate this service. Waste of money.,negative
+293,Absolutely love the performance of app!,positive
+294,No strong feelings about app. It's alright.,neutral
+295,keyboard seems decent for the price.,neutral
+296,I love watch! It's absolutely amazing.,positive
+297,So happy with the new update. Totally worth it!,positive
+298,Customer service for watch is awful.,negative
+299,"Not bad, but support could be improved.",neutral
+300,So happy with the new brand. Totally worth it!,positive
+301,feature stopped working after one day. Unacceptable.,negative
+302,"update is okay, nothing special.",neutral
+303,Absolutely love the performance of software!,positive
+304,Absolutely love the performance of mouse!,positive
+305,"Not bad, but laptop could be improved.",neutral
+306,So happy with the new keyboard. Totally worth it!,positive
+307,Best headphones I've used in a long time ❤️,positive
+308,game seems decent for the price.,neutral
+309,"Not bad, but phone could be improved.",neutral
+310,"Average keyboard. Does the job, I guess.",neutral
+311,Never buying laptop again. Huge letdown.,negative
+312,I love headphones! It's absolutely amazing.,positive
+313,Absolutely love the performance of update!,positive
+314,Fantastic experience — laptop exceeded my expectations.,positive
+315,Fantastic experience — camera exceeded my expectations.,positive
+316,So happy with the new website. Totally worth it!,positive
+317,"Not bad, but battery could be improved.",neutral
+318,Never buying software again. Huge letdown.,negative
+319,keyboard seems decent for the price.,neutral
+320,headphones seems decent for the price.,neutral
+321,So happy with the new phone. Totally worth it!,positive
+322,Best TV I've used in a long time ❤️,positive
+323,Never buying support again. Huge letdown.,negative
+324,Pretty standard mouse. Nothing to complain about.,neutral
+325,Never buying feature again. Huge letdown.,negative
+326,No strong feelings about app. It's alright.,neutral
+327,"Average support. Does the job, I guess.",neutral
+328,Never buying game again. Huge letdown.,negative
+329,Absolutely love the performance of game!,positive
+330,So happy with the new app. Totally worth it!,positive
+331,Best software I've used in a long time ❤️,positive
+332,Customer service for brand is awful.,negative
+333,website is awesome! Highly recommend it.,positive
+334,headphones is awesome! Highly recommend it.,positive
+335,support stopped working after one day. Unacceptable.,negative
+336,Fantastic experience — mouse exceeded my expectations.,positive
+337,Fantastic experience — website exceeded my expectations.,positive
+338,watch seems decent for the price.,neutral
+339,So frustrating. update keeps crashing.,negative
+340,Best feature I've used in a long time ❤️,positive
+341,Worst mouse ever. Totally disappointed.,negative
+342,No strong feelings about support. It's alright.,neutral
+343,So happy with the new battery. Totally worth it!,positive
+344,Best camera I've used in a long time ❤️,positive
+345,service stopped working after one day. Unacceptable.,negative
+346,"service is okay, nothing special.",neutral
+347,No strong feelings about brand. It's alright.,neutral
+348,"website is okay, nothing special.",neutral
+349,So happy with the new app. Totally worth it!,positive
+350,"Not bad, but keyboard could be improved.",neutral
+351,Can't stop smiling! headphones is perfect 😍,positive
+352,Terrible experience using app.,negative
+353,"website is okay, nothing special.",neutral
+354,Best feature I've used in a long time ❤️,positive
+355,feature is awesome! Highly recommend it.,positive
+356,app stopped working after one day. Unacceptable.,negative
+357,I love service! It's absolutely amazing.,positive
+358,brand is awesome! Highly recommend it.,positive
+359,Terrible experience using update.,negative
+360,No strong feelings about laptop. It's alright.,neutral
+361,Never buying battery again. Huge letdown.,negative
+362,So happy with the new laptop. Totally worth it!,positive
+363,Absolutely love the performance of support!,positive
+364,No strong feelings about support. It's alright.,neutral
+365,Absolutely love the performance of phone!,positive
+366,Terrible experience using website.,negative
+367,I love brand! It's absolutely amazing.,positive
+368,Worst brand ever. Totally disappointed.,negative
+369,"Average update. Does the job, I guess.",neutral
+370,"game works fine, just as expected.",neutral
+371,Never buying laptop again. Huge letdown.,negative
+372,watch is awesome! Highly recommend it.,positive
+373,Fantastic experience — support exceeded my expectations.,positive
+374,brand seems decent for the price.,neutral
+375,Can't stop smiling! feature is perfect 😍,positive
+376,headphones seems decent for the price.,neutral
+377,I hate this app. Waste of money.,negative
+378,brand stopped working after one day. Unacceptable.,negative
+379,Customer service for website is awful.,negative
+380,Can't stop smiling! TV is perfect 😍,positive
+381,Never buying software again. Huge letdown.,negative
+382,So frustrating. service keeps crashing.,negative
+383,website seems decent for the price.,neutral
+384,"update works fine, just as expected.",neutral
+385,I love software! It's absolutely amazing.,positive
+386,Customer service for software is awful.,negative
+387,"mouse is okay, nothing special.",neutral
+388,So frustrating. headphones keeps crashing.,negative
+389,I love mouse! It's absolutely amazing.,positive
+390,No strong feelings about app. It's alright.,neutral
+391,"Average camera. Does the job, I guess.",neutral
+392,Fantastic experience — website exceeded my expectations.,positive
+393,I love game! It's absolutely amazing.,positive
+394,I hate this app. Waste of money.,negative
+395,Can't stop smiling! support is perfect 😍,positive
+396,Customer service for feature is awful.,negative
+397,"Average game. Does the job, I guess.",neutral
+398,Absolutely love the performance of mouse!,positive
+399,Fantastic experience — keyboard exceeded my expectations.,positive
+400,I hate this headphones. Waste of money.,negative
+401,Worst feature ever. Totally disappointed.,negative
+402,"Average headphones. Does the job, I guess.",neutral
+403,"Average update. Does the job, I guess.",neutral
+404,Worst game ever. Totally disappointed.,negative
+405,Customer service for brand is awful.,negative
+406,laptop seems decent for the price.,neutral
+407,software seems decent for the price.,neutral
+408,Worst laptop ever. Totally disappointed.,negative
+409,Never buying camera again. Huge letdown.,negative
+410,phone stopped working after one day. Unacceptable.,negative
+411,Worst watch ever. Totally disappointed.,negative
+412,Never buying software again. Huge letdown.,negative
+413,Customer service for game is awful.,negative
+414,app is awesome! Highly recommend it.,positive
+415,"mouse is okay, nothing special.",neutral
+416,Fantastic experience — keyboard exceeded my expectations.,positive
+417,I hate this TV. Waste of money.,negative
+418,Can't stop smiling! battery is perfect 😍,positive
+419,Worst watch ever. Totally disappointed.,negative
+420,So frustrating. watch keeps crashing.,negative
+421,No strong feelings about battery. It's alright.,neutral
+422,service stopped working after one day. Unacceptable.,negative
+423,Never buying keyboard again. Huge letdown.,negative
+424,mouse stopped working after one day. Unacceptable.,negative
+425,No strong feelings about support. It's alright.,neutral
+426,Can't stop smiling! app is perfect 😍,positive
+427,"battery is okay, nothing special.",neutral
+428,Never buying camera again. Huge letdown.,negative
+429,"Not bad, but phone could be improved.",neutral
+430,"phone works fine, just as expected.",neutral
+431,"Average service. Does the job, I guess.",neutral
+432,Can't stop smiling! phone is perfect 😍,positive
+433,"Not bad, but headphones could be improved.",neutral
+434,Never buying phone again. Huge letdown.,negative
+435,"Not bad, but laptop could be improved.",neutral
+436,Can't stop smiling! camera is perfect 😍,positive
+437,Customer service for keyboard is awful.,negative
+438,Terrible experience using app.,negative
+439,I love app! It's absolutely amazing.,positive
+440,Fantastic experience — phone exceeded my expectations.,positive
+441,Worst laptop ever. Totally disappointed.,negative
+442,Absolutely love the performance of headphones!,positive
+443,software stopped working after one day. Unacceptable.,negative
+444,Terrible experience using brand.,negative
+445,Fantastic experience — battery exceeded my expectations.,positive
+446,Customer service for software is awful.,negative
+447,So frustrating. battery keeps crashing.,negative
+448,I hate this headphones. Waste of money.,negative
+449,Worst laptop ever. Totally disappointed.,negative
+450,battery seems decent for the price.,neutral
+451,Terrible experience using service.,negative
+452,Fantastic experience — software exceeded my expectations.,positive
+453,keyboard stopped working after one day. Unacceptable.,negative
+454,Terrible experience using service.,negative
+455,Pretty standard software. Nothing to complain about.,neutral
+456,I hate this phone. Waste of money.,negative
+457,"brand is okay, nothing special.",neutral
+458,Customer service for watch is awful.,negative
+459,Customer service for feature is awful.,negative
+460,"feature is okay, nothing special.",neutral
+461,So happy with the new service. Totally worth it!,positive
+462,"TV is okay, nothing special.",neutral
+463,Best game I've used in a long time ❤️,positive
+464,"Not bad, but support could be improved.",neutral
+465,"Not bad, but website could be improved.",neutral
+466,brand stopped working after one day. Unacceptable.,negative
+467,So happy with the new feature. Totally worth it!,positive
+468,Absolutely love the performance of TV!,positive
+469,"Not bad, but laptop could be improved.",neutral
+470,"website works fine, just as expected.",neutral
+471,Worst support ever. Totally disappointed.,negative
+472,Can't stop smiling! app is perfect 😍,positive
+473,Never buying service again. Huge letdown.,negative
+474,Worst game ever. Totally disappointed.,negative
+475,software seems decent for the price.,neutral
+476,Worst app ever. Totally disappointed.,negative
+477,Absolutely love the performance of service!,positive
+478,Can't stop smiling! phone is perfect 😍,positive
+479,So happy with the new update. Totally worth it!,positive
+480,Terrible experience using service.,negative
+481,"Average app. Does the job, I guess.",neutral
+482,So happy with the new TV. Totally worth it!,positive
+483,Never buying brand again. Huge letdown.,negative
+484,watch seems decent for the price.,neutral
+485,No strong feelings about TV. It's alright.,neutral
+486,keyboard stopped working after one day. Unacceptable.,negative
+487,Terrible experience using watch.,negative
+488,Fantastic experience — mouse exceeded my expectations.,positive
+489,So happy with the new software. Totally worth it!,positive
+490,watch seems decent for the price.,neutral
+491,Worst watch ever. Totally disappointed.,negative
+492,camera stopped working after one day. Unacceptable.,negative
+493,Worst game ever. Totally disappointed.,negative
+494,So frustrating. battery keeps crashing.,negative
+495,No strong feelings about brand. It's alright.,neutral
+496,Customer service for update is awful.,negative
+497,Can't stop smiling! phone is perfect 😍,positive
+498,"Average camera. Does the job, I guess.",neutral
+499,Pretty standard TV. Nothing to complain about.,neutral
+500,"Not bad, but camera could be improved.",neutral
+501,Worst laptop ever. Totally disappointed.,negative
+502,So happy with the new watch. Totally worth it!,positive
+503,"watch is okay, nothing special.",neutral
+504,Never buying brand again. Huge letdown.,negative
+505,Fantastic experience — camera exceeded my expectations.,positive
+506,So happy with the new app. Totally worth it!,positive
+507,camera is awesome! Highly recommend it.,positive
+508,"TV is okay, nothing special.",neutral
+509,Absolutely love the performance of watch!,positive
+510,"Average headphones. Does the job, I guess.",neutral
+511,"software is okay, nothing special.",neutral
+512,I love camera! It's absolutely amazing.,positive
+513,I love app! It's absolutely amazing.,positive
+514,game seems decent for the price.,neutral
+515,camera stopped working after one day. Unacceptable.,negative
+516,game is awesome! Highly recommend it.,positive
+517,Customer service for battery is awful.,negative
+518,Customer service for update is awful.,negative
+519,mouse stopped working after one day. Unacceptable.,negative
+520,Fantastic experience — website exceeded my expectations.,positive
+521,Customer service for game is awful.,negative
+522,Worst support ever. Totally disappointed.,negative
+523,So frustrating. service keeps crashing.,negative
+524,mouse seems decent for the price.,neutral
+525,Worst software ever. Totally disappointed.,negative
+526,So happy with the new website. Totally worth it!,positive
+527,No strong feelings about brand. It's alright.,neutral
+528,Best brand I've used in a long time ❤️,positive
+529,Can't stop smiling! camera is perfect 😍,positive
+530,Fantastic experience — battery exceeded my expectations.,positive
+531,I hate this feature. Waste of money.,negative
+532,Terrible experience using headphones.,negative
+533,Best feature I've used in a long time ❤️,positive
+534,phone is awesome! Highly recommend it.,positive
+535,Pretty standard laptop. Nothing to complain about.,neutral
+536,"Average camera. Does the job, I guess.",neutral
+537,"Not bad, but headphones could be improved.",neutral
+538,Pretty standard brand. Nothing to complain about.,neutral
+539,Absolutely love the performance of camera!,positive
+540,Fantastic experience — brand exceeded my expectations.,positive
+541,Can't stop smiling! software is perfect 😍,positive
+542,Best battery I've used in a long time ❤️,positive
+543,Can't stop smiling! laptop is perfect 😍,positive
+544,Worst mouse ever. Totally disappointed.,negative
+545,"Not bad, but laptop could be improved.",neutral
+546,"phone works fine, just as expected.",neutral
+547,"feature works fine, just as expected.",neutral
+548,"Average headphones. Does the job, I guess.",neutral
+549,Best brand I've used in a long time ❤️,positive
+550,Can't stop smiling! game is perfect 😍,positive
+551,Never buying keyboard again. Huge letdown.,negative
+552,Worst laptop ever. Totally disappointed.,negative
+553,Customer service for battery is awful.,negative
+554,I love update! It's absolutely amazing.,positive
+555,game seems decent for the price.,neutral
+556,Fantastic experience — brand exceeded my expectations.,positive
+557,Customer service for battery is awful.,negative
+558,laptop stopped working after one day. Unacceptable.,negative
+559,"laptop is okay, nothing special.",neutral
+560,website stopped working after one day. Unacceptable.,negative
+561,Never buying service again. Huge letdown.,negative
+562,I love website! It's absolutely amazing.,positive
+563,So frustrating. battery keeps crashing.,negative
+564,Worst app ever. Totally disappointed.,negative
+565,Fantastic experience — update exceeded my expectations.,positive
+566,laptop stopped working after one day. Unacceptable.,negative
+567,"Average website. Does the job, I guess.",neutral
+568,Absolutely love the performance of update!,positive
+569,Absolutely love the performance of service!,positive
+570,So happy with the new keyboard. Totally worth it!,positive
+571,So frustrating. TV keeps crashing.,negative
+572,Best battery I've used in a long time ❤️,positive
+573,app stopped working after one day. Unacceptable.,negative
+574,Absolutely love the performance of app!,positive
+575,Customer service for watch is awful.,negative
+576,Absolutely love the performance of software!,positive
+577,I hate this mouse. Waste of money.,negative
+578,No strong feelings about feature. It's alright.,neutral
+579,Absolutely love the performance of headphones!,positive
+580,"Average feature. Does the job, I guess.",neutral
+581,Absolutely love the performance of mouse!,positive
+582,Can't stop smiling! service is perfect 😍,positive
+583,Pretty standard game. Nothing to complain about.,neutral
+584,brand seems decent for the price.,neutral
+585,Best battery I've used in a long time ❤️,positive
+586,"phone is okay, nothing special.",neutral
+587,I love headphones! It's absolutely amazing.,positive
+588,mouse stopped working after one day. Unacceptable.,negative
+589,keyboard is awesome! Highly recommend it.,positive
+590,So happy with the new website. Totally worth it!,positive
+591,Worst TV ever. Totally disappointed.,negative
+592,"Not bad, but watch could be improved.",neutral
+593,Terrible experience using software.,negative
+594,Customer service for battery is awful.,negative
+595,Absolutely love the performance of app!,positive
+596,Terrible experience using battery.,negative
+597,I love service! It's absolutely amazing.,positive
+598,Absolutely love the performance of software!,positive
+599,Can't stop smiling! game is perfect 😍,positive
+600,"phone is okay, nothing special.",neutral
+601,Can't stop smiling! mouse is perfect 😍,positive
+602,Fantastic experience — support exceeded my expectations.,positive
+603,Customer service for game is awful.,negative
+604,"Average support. Does the job, I guess.",neutral
+605,laptop stopped working after one day. Unacceptable.,negative
+606,"watch is okay, nothing special.",neutral
+607,Fantastic experience — headphones exceeded my expectations.,positive
+608,No strong feelings about watch. It's alright.,neutral
+609,"Not bad, but mouse could be improved.",neutral
+610,Customer service for update is awful.,negative
+611,I hate this laptop. Waste of money.,negative
+612,Best update I've used in a long time ❤️,positive
+613,Never buying laptop again. Huge letdown.,negative
+614,Can't stop smiling! mouse is perfect 😍,positive
+615,Terrible experience using service.,negative
+616,"service is okay, nothing special.",neutral
+617,So happy with the new mouse. Totally worth it!,positive
+618,So happy with the new mouse. Totally worth it!,positive
+619,Best software I've used in a long time ❤️,positive
+620,Absolutely love the performance of feature!,positive
+621,Absolutely love the performance of phone!,positive
+622,laptop is awesome! Highly recommend it.,positive
+623,"Average battery. Does the job, I guess.",neutral
+624,"battery is okay, nothing special.",neutral
+625,I hate this phone. Waste of money.,negative
+626,Can't stop smiling! software is perfect 😍,positive
+627,website is awesome! Highly recommend it.,positive
+628,Can't stop smiling! game is perfect 😍,positive
+629,Pretty standard keyboard. Nothing to complain about.,neutral
+630,Never buying support again. Huge letdown.,negative
+631,Never buying keyboard again. Huge letdown.,negative
+632,"Not bad, but headphones could be improved.",neutral
+633,No strong feelings about laptop. It's alright.,neutral
+634,Customer service for watch is awful.,negative
+635,"mouse is okay, nothing special.",neutral
+636,Can't stop smiling! website is perfect 😍,positive
+637,Fantastic experience — headphones exceeded my expectations.,positive
+638,"mouse is okay, nothing special.",neutral
+639,camera is awesome! Highly recommend it.,positive
+640,I love app! It's absolutely amazing.,positive
+641,I love watch! It's absolutely amazing.,positive
+642,Can't stop smiling! update is perfect 😍,positive
+643,So frustrating. app keeps crashing.,negative
+644,app seems decent for the price.,neutral
+645,Customer service for service is awful.,negative
+646,"phone works fine, just as expected.",neutral
+647,Never buying website again. Huge letdown.,negative
+648,So frustrating. camera keeps crashing.,negative
+649,So happy with the new camera. Totally worth it!,positive
+650,Worst brand ever. Totally disappointed.,negative
+651,Pretty standard app. Nothing to complain about.,neutral
+652,Never buying game again. Huge letdown.,negative
+653,watch stopped working after one day. Unacceptable.,negative
+654,I love watch! It's absolutely amazing.,positive
+655,Worst app ever. Totally disappointed.,negative
+656,keyboard stopped working after one day. Unacceptable.,negative
+657,"Average phone. Does the job, I guess.",neutral
+658,Terrible experience using keyboard.,negative
+659,Can't stop smiling! phone is perfect 😍,positive
+660,Terrible experience using feature.,negative
+661,So frustrating. website keeps crashing.,negative
+662,Never buying brand again. Huge letdown.,negative
+663,I hate this brand. Waste of money.,negative
+664,I hate this brand. Waste of money.,negative
+665,Worst feature ever. Totally disappointed.,negative
+666,Fantastic experience — camera exceeded my expectations.,positive
+667,Fantastic experience — feature exceeded my expectations.,positive
+668,Fantastic experience — software exceeded my expectations.,positive
+669,"Average support. Does the job, I guess.",neutral
+670,Worst software ever. Totally disappointed.,negative
+671,"phone is okay, nothing special.",neutral
+672,Customer service for website is awful.,negative
+673,"mouse is okay, nothing special.",neutral
+674,mouse stopped working after one day. Unacceptable.,negative
+675,service is awesome! Highly recommend it.,positive
+676,So happy with the new website. Totally worth it!,positive
+677,"Not bad, but headphones could be improved.",neutral
+678,headphones is awesome! Highly recommend it.,positive
+679,Fantastic experience — website exceeded my expectations.,positive
+680,I hate this TV. Waste of money.,negative
+681,Never buying phone again. Huge letdown.,negative
+682,So frustrating. website keeps crashing.,negative
+683,"app works fine, just as expected.",neutral
+684,"Average camera. Does the job, I guess.",neutral
+685,So happy with the new TV. Totally worth it!,positive
+686,I love website! It's absolutely amazing.,positive
+687,Can't stop smiling! keyboard is perfect 😍,positive
+688,Fantastic experience — website exceeded my expectations.,positive
+689,"Not bad, but app could be improved.",neutral
+690,support seems decent for the price.,neutral
+691,I hate this headphones. Waste of money.,negative
+692,So frustrating. headphones keeps crashing.,negative
+693,Customer service for website is awful.,negative
+694,software stopped working after one day. Unacceptable.,negative
+695,Terrible experience using laptop.,negative
+696,So frustrating. software keeps crashing.,negative
+697,Fantastic experience — laptop exceeded my expectations.,positive
+698,Absolutely love the performance of headphones!,positive
+699,Absolutely love the performance of game!,positive
+700,"Not bad, but watch could be improved.",neutral
+701,Terrible experience using game.,negative
+702,Terrible experience using update.,negative
+703,Best software I've used in a long time ❤️,positive
+704,Best service I've used in a long time ❤️,positive
+705,No strong feelings about keyboard. It's alright.,neutral
+706,Absolutely love the performance of update!,positive
+707,"phone works fine, just as expected.",neutral
+708,Customer service for support is awful.,negative
+709,"update is okay, nothing special.",neutral
+710,Customer service for laptop is awful.,negative
+711,Can't stop smiling! update is perfect 😍,positive
+712,watch stopped working after one day. Unacceptable.,negative
+713,"keyboard works fine, just as expected.",neutral
+714,No strong feelings about brand. It's alright.,neutral
+715,"website works fine, just as expected.",neutral
+716,"Average phone. Does the job, I guess.",neutral
+717,Fantastic experience — feature exceeded my expectations.,positive
+718,"brand works fine, just as expected.",neutral
+719,I hate this service. Waste of money.,negative
+720,website seems decent for the price.,neutral
+721,So frustrating. game keeps crashing.,negative
+722,Can't stop smiling! phone is perfect 😍,positive
+723,Best battery I've used in a long time ❤️,positive
+724,No strong feelings about service. It's alright.,neutral
+725,"watch works fine, just as expected.",neutral
+726,"feature works fine, just as expected.",neutral
+727,keyboard seems decent for the price.,neutral
+728,"Average website. Does the job, I guess.",neutral
+729,Pretty standard brand. Nothing to complain about.,neutral
+730,"phone works fine, just as expected.",neutral
+731,battery seems decent for the price.,neutral
+732,No strong feelings about software. It's alright.,neutral
+733,Can't stop smiling! phone is perfect 😍,positive
+734,"Average phone. Does the job, I guess.",neutral
+735,Customer service for brand is awful.,negative
+736,Terrible experience using laptop.,negative
+737,I hate this update. Waste of money.,negative
+738,Absolutely love the performance of watch!,positive
+739,Customer service for software is awful.,negative
+740,service stopped working after one day. Unacceptable.,negative
+741,I hate this brand. Waste of money.,negative
+742,Never buying laptop again. Huge letdown.,negative
+743,Absolutely love the performance of support!,positive
+744,I love feature! It's absolutely amazing.,positive
+745,Pretty standard update. Nothing to complain about.,neutral
+746,Terrible experience using update.,negative
+747,camera is awesome! Highly recommend it.,positive
+748,Best laptop I've used in a long time ❤️,positive
+749,Can't stop smiling! brand is perfect 😍,positive
+750,Worst watch ever. Totally disappointed.,negative
+751,Never buying watch again. Huge letdown.,negative
+752,"Not bad, but camera could be improved.",neutral
+753,Terrible experience using keyboard.,negative
+754,I hate this brand. Waste of money.,negative
+755,Worst headphones ever. Totally disappointed.,negative
+756,"TV is okay, nothing special.",neutral
+757,Fantastic experience — watch exceeded my expectations.,positive
+758,support stopped working after one day. Unacceptable.,negative
+759,I love headphones! It's absolutely amazing.,positive
+760,Never buying feature again. Huge letdown.,negative
+761,"Not bad, but mouse could be improved.",neutral
+762,brand seems decent for the price.,neutral
+763,brand seems decent for the price.,neutral
+764,camera seems decent for the price.,neutral
+765,Can't stop smiling! app is perfect 😍,positive
+766,No strong feelings about battery. It's alright.,neutral
+767,battery seems decent for the price.,neutral
+768,watch is awesome! Highly recommend it.,positive
+769,No strong feelings about game. It's alright.,neutral
+770,I hate this website. Waste of money.,negative
+771,So frustrating. laptop keeps crashing.,negative
+772,Absolutely love the performance of watch!,positive
+773,Customer service for camera is awful.,negative
+774,Customer service for update is awful.,negative
+775,Absolutely love the performance of website!,positive
+776,watch stopped working after one day. Unacceptable.,negative
+777,Never buying website again. Huge letdown.,negative
+778,Pretty standard app. Nothing to complain about.,neutral
+779,website stopped working after one day. Unacceptable.,negative
+780,I love headphones! It's absolutely amazing.,positive
+781,I hate this feature. Waste of money.,negative
+782,website is awesome! Highly recommend it.,positive
+783,Can't stop smiling! keyboard is perfect 😍,positive
+784,Best mouse I've used in a long time ❤️,positive
+785,Customer service for TV is awful.,negative
+786,"Not bad, but brand could be improved.",neutral
+787,website is awesome! Highly recommend it.,positive
+788,Best app I've used in a long time ❤️,positive
+789,keyboard is awesome! Highly recommend it.,positive
+790,"headphones is okay, nothing special.",neutral
+791,Worst website ever. Totally disappointed.,negative
+792,Pretty standard keyboard. Nothing to complain about.,neutral
+793,So happy with the new battery. Totally worth it!,positive
+794,Customer service for game is awful.,negative
+795,"phone works fine, just as expected.",neutral
+796,"laptop works fine, just as expected.",neutral
+797,"camera is okay, nothing special.",neutral
+798,"support works fine, just as expected.",neutral
+799,"Average feature. Does the job, I guess.",neutral
+800,Can't stop smiling! headphones is perfect 😍,positive
+801,Absolutely love the performance of website!,positive
+802,So happy with the new battery. Totally worth it!,positive
+803,Can't stop smiling! headphones is perfect 😍,positive
+804,So happy with the new TV. Totally worth it!,positive
+805,"Average website. Does the job, I guess.",neutral
+806,"Average laptop. Does the job, I guess.",neutral
+807,"Average app. Does the job, I guess.",neutral
+808,"Average mouse. Does the job, I guess.",neutral
+809,"keyboard is okay, nothing special.",neutral
+810,So happy with the new service. Totally worth it!,positive
+811,Never buying camera again. Huge letdown.,negative
+812,So frustrating. feature keeps crashing.,negative
+813,TV seems decent for the price.,neutral
+814,"phone works fine, just as expected.",neutral
+815,"phone is okay, nothing special.",neutral
+816,Worst game ever. Totally disappointed.,negative
+817,Best watch I've used in a long time ❤️,positive
+818,So frustrating. service keeps crashing.,negative
+819,Terrible experience using website.,negative
+820,support is awesome! Highly recommend it.,positive
+821,Best camera I've used in a long time ❤️,positive
+822,"game works fine, just as expected.",neutral
+823,Customer service for service is awful.,negative
+824,Pretty standard mouse. Nothing to complain about.,neutral
+825,"laptop is okay, nothing special.",neutral
+826,I love TV! It's absolutely amazing.,positive
+827,"watch is okay, nothing special.",neutral
+828,"Not bad, but keyboard could be improved.",neutral
+829,support seems decent for the price.,neutral
+830,Can't stop smiling! update is perfect 😍,positive
+831,"Not bad, but headphones could be improved.",neutral
+832,"Average watch. Does the job, I guess.",neutral
+833,Customer service for keyboard is awful.,negative
+834,"Not bad, but keyboard could be improved.",neutral
+835,Fantastic experience — service exceeded my expectations.,positive
+836,feature seems decent for the price.,neutral
+837,Best service I've used in a long time ❤️,positive
+838,"service works fine, just as expected.",neutral
+839,"Average laptop. Does the job, I guess.",neutral
+840,So frustrating. keyboard keeps crashing.,negative
+841,So happy with the new headphones. Totally worth it!,positive
+842,"keyboard works fine, just as expected.",neutral
+843,Absolutely love the performance of brand!,positive
+844,website stopped working after one day. Unacceptable.,negative
+845,Terrible experience using software.,negative
+846,update seems decent for the price.,neutral
+847,I hate this battery. Waste of money.,negative
+848,I hate this app. Waste of money.,negative
+849,I love app! It's absolutely amazing.,positive
+850,"service works fine, just as expected.",neutral
+851,Absolutely love the performance of laptop!,positive
+852,"phone works fine, just as expected.",neutral
+853,"keyboard works fine, just as expected.",neutral
+854,Can't stop smiling! laptop is perfect 😍,positive
+855,brand is awesome! Highly recommend it.,positive
+856,headphones stopped working after one day. Unacceptable.,negative
+857,Worst headphones ever. Totally disappointed.,negative
+858,Best brand I've used in a long time ❤️,positive
+859,So happy with the new watch. Totally worth it!,positive
+860,Absolutely love the performance of mouse!,positive
+861,So happy with the new feature. Totally worth it!,positive
+862,Terrible experience using service.,negative
+863,"battery is okay, nothing special.",neutral
+864,phone is awesome! Highly recommend it.,positive
+865,So happy with the new software. Totally worth it!,positive
+866,No strong feelings about feature. It's alright.,neutral
+867,battery is awesome! Highly recommend it.,positive
+868,Worst website ever. Totally disappointed.,negative
+869,I love keyboard! It's absolutely amazing.,positive
+870,Best watch I've used in a long time ❤️,positive
+871,"keyboard works fine, just as expected.",neutral
+872,So frustrating. phone keeps crashing.,negative
+873,Best watch I've used in a long time ❤️,positive
+874,software stopped working after one day. Unacceptable.,negative
+875,Terrible experience using brand.,negative
+876,laptop is awesome! Highly recommend it.,positive
+877,Never buying app again. Huge letdown.,negative
+878,app seems decent for the price.,neutral
+879,camera stopped working after one day. Unacceptable.,negative
+880,"game is okay, nothing special.",neutral
+881,Never buying update again. Huge letdown.,negative
+882,Worst laptop ever. Totally disappointed.,negative
+883,So happy with the new support. Totally worth it!,positive
+884,So happy with the new camera. Totally worth it!,positive
+885,So happy with the new laptop. Totally worth it!,positive
+886,Never buying headphones again. Huge letdown.,negative
+887,I hate this game. Waste of money.,negative
+888,No strong feelings about TV. It's alright.,neutral
+889,"Not bad, but TV could be improved.",neutral
+890,Never buying headphones again. Huge letdown.,negative
+891,Terrible experience using game.,negative
+892,mouse stopped working after one day. Unacceptable.,negative
+893,Never buying website again. Huge letdown.,negative
+894,update stopped working after one day. Unacceptable.,negative
+895,Never buying feature again. Huge letdown.,negative
+896,"Not bad, but support could be improved.",neutral
+897,"support works fine, just as expected.",neutral
+898,So happy with the new phone. Totally worth it!,positive
+899,feature seems decent for the price.,neutral
+900,Fantastic experience — game exceeded my expectations.,positive
+901,Best support I've used in a long time ❤️,positive
+902,I love camera! It's absolutely amazing.,positive
+903,So happy with the new keyboard. Totally worth it!,positive
+904,Pretty standard app. Nothing to complain about.,neutral
+905,No strong feelings about feature. It's alright.,neutral
+906,Terrible experience using support.,negative
+907,So frustrating. support keeps crashing.,negative
+908,So happy with the new update. Totally worth it!,positive
+909,Can't stop smiling! feature is perfect 😍,positive
+910,"service works fine, just as expected.",neutral
+911,I love game! It's absolutely amazing.,positive
+912,Pretty standard feature. Nothing to complain about.,neutral
+913,"update works fine, just as expected.",neutral
+914,No strong feelings about website. It's alright.,neutral
+915,battery stopped working after one day. Unacceptable.,negative
+916,Fantastic experience — brand exceeded my expectations.,positive
+917,Terrible experience using phone.,negative
+918,So happy with the new TV. Totally worth it!,positive
+919,Fantastic experience — support exceeded my expectations.,positive
+920,Pretty standard game. Nothing to complain about.,neutral
+921,Terrible experience using watch.,negative
+922,Fantastic experience — headphones exceeded my expectations.,positive
+923,Can't stop smiling! game is perfect 😍,positive
+924,Best headphones I've used in a long time ❤️,positive
+925,So frustrating. support keeps crashing.,negative
+926,Pretty standard TV. Nothing to complain about.,neutral
+927,Can't stop smiling! watch is perfect 😍,positive
+928,"headphones works fine, just as expected.",neutral
+929,"Not bad, but support could be improved.",neutral
+930,Best app I've used in a long time ❤️,positive
+931,"Not bad, but app could be improved.",neutral
+932,Worst mouse ever. Totally disappointed.,negative
+933,So happy with the new battery. Totally worth it!,positive
+934,I hate this laptop. Waste of money.,negative
+935,Absolutely love the performance of keyboard!,positive
+936,Worst headphones ever. Totally disappointed.,negative
+937,Can't stop smiling! app is perfect 😍,positive
+938,service seems decent for the price.,neutral
+939,brand stopped working after one day. Unacceptable.,negative
+940,So frustrating. phone keeps crashing.,negative
+941,Pretty standard service. Nothing to complain about.,neutral
+942,Pretty standard update. Nothing to complain about.,neutral
+943,Never buying laptop again. Huge letdown.,negative
+944,Worst app ever. Totally disappointed.,negative
+945,Can't stop smiling! support is perfect 😍,positive
+946,Absolutely love the performance of update!,positive
+947,Absolutely love the performance of app!,positive
+948,Customer service for mouse is awful.,negative
+949,Fantastic experience — game exceeded my expectations.,positive
+950,So frustrating. service keeps crashing.,negative
+951,Absolutely love the performance of TV!,positive
+952,Terrible experience using game.,negative
+953,Fantastic experience — keyboard exceeded my expectations.,positive
+954,TV seems decent for the price.,neutral
+955,Absolutely love the performance of mouse!,positive
+956,Fantastic experience — service exceeded my expectations.,positive
+957,"Not bad, but camera could be improved.",neutral
+958,I hate this software. Waste of money.,negative
+959,Fantastic experience — watch exceeded my expectations.,positive
+960,Worst headphones ever. Totally disappointed.,negative
+961,So happy with the new support. Totally worth it!,positive
+962,I love support! It's absolutely amazing.,positive
+963,Terrible experience using camera.,negative
+964,Never buying laptop again. Huge letdown.,negative
+965,Worst TV ever. Totally disappointed.,negative
+966,"game is okay, nothing special.",neutral
+967,Terrible experience using phone.,negative
+968,"Not bad, but camera could be improved.",neutral
+969,Customer service for battery is awful.,negative
+970,watch stopped working after one day. Unacceptable.,negative
+971,"phone works fine, just as expected.",neutral
+972,feature is awesome! Highly recommend it.,positive
+973,"Not bad, but app could be improved.",neutral
+974,Terrible experience using website.,negative
+975,"watch is okay, nothing special.",neutral
+976,Terrible experience using battery.,negative
+977,Best service I've used in a long time ❤️,positive
+978,feature seems decent for the price.,neutral
+979,"support is okay, nothing special.",neutral
+980,"Not bad, but battery could be improved.",neutral
+981,I love support! It's absolutely amazing.,positive
+982,Best watch I've used in a long time ❤️,positive
+983,I love headphones! It's absolutely amazing.,positive
+984,service stopped working after one day. Unacceptable.,negative
+985,Best battery I've used in a long time ❤️,positive
+986,Absolutely love the performance of laptop!,positive
+987,Terrible experience using mouse.,negative
+988,Pretty standard service. Nothing to complain about.,neutral
+989,So frustrating. app keeps crashing.,negative
+990,"Not bad, but phone could be improved.",neutral
+991,Pretty standard TV. Nothing to complain about.,neutral
+992,So happy with the new website. Totally worth it!,positive
+993,brand is awesome! Highly recommend it.,positive
+994,software stopped working after one day. Unacceptable.,negative
+995,support stopped working after one day. Unacceptable.,negative
+996,app is awesome! Highly recommend it.,positive
+997,Customer service for game is awful.,negative
+998,software is awesome! Highly recommend it.,positive
+999,Never buying feature again. Huge letdown.,negative
+1000,Absolutely love the performance of mouse!,positive
